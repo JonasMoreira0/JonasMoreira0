@@ -8,6 +8,8 @@
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasMoreira0&show_icons=true&theme=onedark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonasMoreira0&hide_progress=true)
+
 ## Tecnologia que eu utilizo
 
 <div style="display: inline_block"><dr/>
