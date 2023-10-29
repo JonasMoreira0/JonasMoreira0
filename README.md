@@ -28,5 +28,6 @@ Desde o início dos meus estudos, tenho participado ativamente de projetos pesso
 Minha paixão pela programação está enraizada na busca incessante por soluções inovadoras e eficientes para desafios do mundo real. Acredito firmemente que a tecnologia tem o poder de transformar a sociedade e estou ansioso para fazer parte desse movimento em alguma respeitada empresa.
 
 ## Últimos contatos:
-- [jonasmoreira192@gmail.com]()<br/>
-- [WhatsApp](https://mono.direct/jonasmoreira?utm_medium=share-link&utm_source=mono.direct&utm_name=share-link-in-share-page)
+- [WhatsApp](https://mono.direct/jonasmoreira?utm_medium=share-link&utm_source=mono.direct&utm_name=share-link-in-share-page)<br/>
+- [jonasmoreira192@gmail.com](jonasmoreira192@gmail.com)<br/>
+
