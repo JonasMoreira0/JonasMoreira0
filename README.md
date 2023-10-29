@@ -4,7 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-moreira-40aba71b5/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonasMoreira0)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jonasmoreira192@gmail.com)
 [![Contato](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mono.direct/jonasmoreira?utm_medium=share-link&utm_source=mono.direct&utm_name=share-link-in-share-page)
 
 ![Jonas GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasMoreira0&show_icons=true&theme=onedark)
