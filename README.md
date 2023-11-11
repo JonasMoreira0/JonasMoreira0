@@ -28,6 +28,8 @@ Atualmente, estou matriculado no curso de Analise desenvolvimento de sistemas, o
 Desde o início dos meus estudos, tenho participado ativamente de projetos pessoais e acadêmicos que me permitiram desenvolver minhas habilidades de codificação, bem como a capacidade de trabalhar em equipe e comunicar ideias complexas de forma clara e concisa.
 Minha paixão pela programação está enraizada na busca incessante por soluções inovadoras e eficientes para desafios do mundo real. Acredito firmemente que a tecnologia tem o poder de transformar a sociedade e estou ansioso para fazer parte desse movimento em alguma respeitada empresa.
 
+I am a dedicated and technology enthusiast student, seeking an opportunity to apply my knowledge and gain practical experience in the programming world. Currently, I am enrolled in the Systems Development Analysis course, where I have been enhancing my understanding of fundamental programming concepts, data structures, and computational problem-solving. Since the beginning of my studies, I have actively participated in personal and academic projects that have allowed me to develop my coding skills, as well as the ability to work in a team and communicate complex ideas clearly and concisely. My passion for programming is rooted in the relentless pursuit of innovative and efficient solutions to real-world challenges. I firmly believe that technology has the power to transform society, and I am eager to be part of this movement in a respected company.
+
 ## Últimos contatos:
 - [jonasmoreira192@gmail.com]()<br/>
 - [WhatsApp](https://mono.direct/jonasmoreira?utm_medium=share-link&utm_source=mono.direct&utm_name=share-link-in-share-page)
